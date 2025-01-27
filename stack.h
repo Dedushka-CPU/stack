@@ -18,4 +18,5 @@ public:
     ~stack();
 };
 
+#include "stack.cpp"
 #endif // STACK_H
